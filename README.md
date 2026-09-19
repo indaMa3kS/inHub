@@ -1,5 +1,7 @@
 # inHub — Personal Developer Website & Digital Hub
 
+> **Live version:** [indama3ks.com](https://indama3ks.com)
+
 `inHub` is a lightweight, responsive personal website and dev log hub built on ASP.NET Core Razor Pages. It serves as a central showcase for software projects, mobile games, and engineering articles.
 
 ## 🛠 Tech Stack
